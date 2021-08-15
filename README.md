@@ -18,8 +18,8 @@ Solution to problems on <a href="https://leetcode.com/problemset/all">LeetCode <
     <td>Tree</td>
     <td>Easy</td>
     <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
-    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/">C Sharp</a></td>
-  </tr> 
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/">C Sharp, Java</a></td>
+  </tr>  
 </table>  
 <body> 
 <html> 
